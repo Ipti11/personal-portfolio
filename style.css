@@ -1,0 +1,96 @@
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+
+}
+.name-highlight{
+    color: orange;
+}
+
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(255, 96, 68);
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 700px;
+}
+.half-width1{
+
+    width: 25%;
+    float:left;
+    margin-left: 3%;
+    padding-left: 2%;
+    border: 1px solid rgb(221, 216, 216);
+    background-color: white;
+    border-radius: 5%;
+    box-shadow: 10px 10px 20px grey;
+
+}
+.half-width1 img{
+    width: 90%;
+}
+.latest-work{
+    align-items: center;
+    background-color: rgb(240, 231, 231);
+    padding-top: 15px;
+    margin-top: 2%;
+    
+}
+.latest-work1{
+    
+    text-align: center;
+    color: rgb(245, 119, 73);
+    
+}
+.latest-work2{
+    text-align: center;
+    margin-top: 5px;
+    margin-top: 5;
+}
+.working-section{
+    height:200px;
+    background-image: url(images/Group_33094_1.png);
+    width: 750px;
+    margin-left: 200px;
+    margin-top: 40px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+    padding: 0px 30px;
+    text-align: justify;
+}
+.work-Inquiry{
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    color: whitesmoke;
+    margin-bottom: 20px;
+    
+
+}
+.Lets-chat{
+    text-decoration: none;
+    background-color: rgb(255, 96, 68);
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 700px;
+    
+}
